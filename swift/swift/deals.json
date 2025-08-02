@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "50% off on Kurtis",
+    "category": "Clothing",
+    "offer": "50% off",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "id": 2,
+    "title": "Buy 1 Get 1 Free Apples",
+    "category": "Grocery",
+    "offer": "Buy 1 Get 1 Free",
+    "latitude": 12.9611,
+    "longitude": 77.6387
+  },
+  {
+    "id": 3,
+    "title": "20% off on Shoes",
+    "category": "Footwear",
+    "offer": "20% off",
+    "latitude": 12.9352,
+    "longitude": 77.6245
+  }
+] 
